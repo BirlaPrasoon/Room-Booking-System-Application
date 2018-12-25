@@ -18,7 +18,7 @@ public class Timeline {
     }
 
     public String getRoomId() {
-        return roomId;
+    	return roomId;
     }
 
     public void setRoomId(String roomId) {

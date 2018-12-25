@@ -22,6 +22,8 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonParser;
 
+import requestResponses.RequestResponse;
+
 public class Granter extends JFrame {
 
 	private JPanel contentPane;

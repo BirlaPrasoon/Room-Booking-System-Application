@@ -152,7 +152,7 @@ public class Booking extends JFrame {
 		logo.setIcon(img);
 		logo.setBounds(1640, 8, 200, 92);
 		header.add(logo);
-		
+		textField.setBackground(Color.BLACK);
 		textField = new JTextField();
 		if(Login.requester !=null){
 			textField.setText("Hi, " + Login.requester.getName());

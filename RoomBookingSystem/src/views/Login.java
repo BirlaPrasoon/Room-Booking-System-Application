@@ -17,6 +17,8 @@ import javax.swing.*;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
+import requestResponses.Requester;
+
 public class Login extends JFrame {
 
 	public static Requester requester;

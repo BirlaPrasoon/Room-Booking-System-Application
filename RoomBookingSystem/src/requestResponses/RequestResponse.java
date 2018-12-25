@@ -1,4 +1,4 @@
-package views;
+package requestResponses;
 
 public class RequestResponse {
 	//Retrieve by column name

@@ -21,6 +21,8 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonParser;
 
+import requestResponses.RequestResponse;
+
 import javax.swing.border.LineBorder;
 
 public class Cancel extends JFrame {

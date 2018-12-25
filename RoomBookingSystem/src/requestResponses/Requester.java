@@ -1,4 +1,4 @@
-package views;
+package requestResponses;
 
 import java.sql.*;
 import java.util.ArrayList;
